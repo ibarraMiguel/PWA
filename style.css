@@ -1,7 +1,7 @@
 /* Custom Properties */
 :root {
-  --main-color: #F0DB4F;
-  --main-modal-color: rgba(240, 219, 79, .5);
+  --main-color: rgb(165, 149, 42);
+  --main-modal-color: rgba(45, 167, 121, .5);
   --second-color: #2B2B2B;
   --second-modal-color: rgba(43, 43, 43, .5);
 }
